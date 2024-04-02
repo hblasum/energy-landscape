@@ -11,5 +11,5 @@ Files:
 Notes:
 
 * Support by Google Gemini is acknowledged.
-* The Github API access tokens are invalid, use your own.
+* The Github API access tokens are invalid, use your own (you get 5000 accesses/hour, this suffices for running each step).
 	
